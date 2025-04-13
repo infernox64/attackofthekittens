@@ -10,11 +10,10 @@
 .form {
     width: auto;
 }
-.img {
+img {
 
     margin-bottom: 15px;
-    //max-width: 100%; /* responsive */
-    max-height: 60%;
+    
     height: 240;
     width: 320;
     
