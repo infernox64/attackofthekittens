@@ -10,3 +10,14 @@
 .form {
     width: auto;
 }
+.img {
+
+    margin-bottom: 15px;
+    
+    
+}
+.gallery {
+        align-items: center;
+        flex: content;
+        padding: 10%;
+}
