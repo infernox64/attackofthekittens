@@ -13,9 +13,10 @@
 .img {
 
     margin-bottom: 15px;
-    max-width: 100%; /* responsive */
+    //max-width: 100%; /* responsive */
     max-height: 60%;
-    height: auto;
+    height: 240;
+    width: 320;
     
     
 }
