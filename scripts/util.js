@@ -10,7 +10,7 @@ return imgEl;
 let imgDiv = document.getElementById('images');
 function loadImages() {
 
-    for (let i = 0; i < imgCount; i++) {
+    for (let i = 1; i < imgCount; i++) {
 var img = newImg(i);
 imgDiv.appendChild(img);
 
