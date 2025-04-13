@@ -83,6 +83,8 @@ function newImg(id) {
     let imgEl = document.createElement('img');
 imgEl.src = imgsrc;
 imgEl.classList = "img";
+  imgEl.width = 320;
+  imgEl.height = 240;
 return imgEl;
 }
 let imgDiv = document.getElementById('images');
