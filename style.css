@@ -1,0 +1,12 @@
+.output {
+    grid-row: auto;
+    align-items: center;
+    flex-direction: row;
+}
+#main {
+    flex: auto;
+    
+}
+.form {
+    width: auto;
+}
