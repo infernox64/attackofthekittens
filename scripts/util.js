@@ -1,7 +1,7 @@
 
 const imgCount = 13;
 function newImg(id) {
-    let imgsrc = `images/lol0${id}.jpg`
+    let imgsrc = `images/${id}`
     let imgEl = document.createElement('img');
 imgEl.src = imgsrc;
 imgEl.classList = "img";

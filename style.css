@@ -10,15 +10,7 @@
 .form {
     width: auto;
 }
-img {
 
-    margin-bottom: 15px;
-    
-    height: 240;
-    width: 320;
-    
-    
-}
 .gallery {
     display: flex;
     flex-direction: column;
